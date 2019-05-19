@@ -1,2 +1,2 @@
-# NotePad
-This is an AndroidStudio rebuild of google SDK sample NotePad
+NotePad期中作业（基于原应用的扩展）
+===
